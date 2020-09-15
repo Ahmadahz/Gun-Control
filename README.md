@@ -1,5 +1,8 @@
 # Gun Control Project:
-In this project I used python and packages realted to data scaince. 
+
+The U.S. is one of the few countries that allow citizens to have or carry a gun. This law has made a lot of problems several times throughout U.S. history, and some people think that guns should be illegal. However, the other side believes that the same problems happen in other countries, and removing guns doesn't solve anything.
+In this project I used python and its packages that are realted to data scaince. 
+----------------------------
 Sources: 
 1. https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate_by_decade#cite_note-nchs1900-4
 2. https://www.statista.com/statistics/249803/number-of-homicides-by-firearm-in-the-united-states/
