@@ -1,1 +1,1 @@
-### Gun Control Project with Data Science
+### A Gun Control Project with Data Science
